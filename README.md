@@ -1,1 +1,1 @@
-Wiki project
+ a Wikipedia-like online encyclopedia.
